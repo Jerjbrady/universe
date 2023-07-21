@@ -1,0 +1,1 @@
+This is part of a certification project. In this code, I create a database name universe. In this universe database, I created five tables (planets, stars, universes, asteroids, and moons). The data in the tables is fictional and does not refer to real celestial bodies.  
